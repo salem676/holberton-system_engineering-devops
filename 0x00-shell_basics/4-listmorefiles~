@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -a -l
-printf '\n'
+ls -a -l ;printf '\n'
