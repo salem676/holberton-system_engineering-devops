@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami printf '\n'
+print '\n' id -un
