@@ -1,0 +1,1 @@
+*This scripts make references to shell permissions*
