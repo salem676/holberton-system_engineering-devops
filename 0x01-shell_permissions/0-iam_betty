@@ -1,2 +1,2 @@
-#!/bin/bash \n
-su betty
+#!/bin/bash
+print '\n ' su betty
